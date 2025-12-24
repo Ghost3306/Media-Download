@@ -1,0 +1,6 @@
+Test 1 - Async - 10 videos - worstvideo/bestaudio - 64.67 sec - 0 failure
+Test 2 - non-Async - 10 videos - worstvideo/bestaudio - 65.92 sec - 1 failure unable to download video data: HTTP Error 403: Forbidden
+Test 3 - Async - 50 videos - worstvideo/bestaudio - 185.79 sec - 0 failure
+Test 4 - non-Async - 50 videos - worstvideo/bestaudio - 188.68 sec - 1 failure unable to download video data: HTTP Error 403: Forbidden
+Test 5 - Async - 200 videos - worstvideo/bestaudio - 774.21 sec - 10 failure
+Test 6 - non-Async - 200 videos - worstvideo/bestaudio -  sec -  failure unable to download video data: HTTP Error 403: Forbidden
